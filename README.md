@@ -1,6 +1,8 @@
 # Smallest-Enclosing-Circle
 Given a set of points on a 2D plane the task is to find the smallest circle made up of 2 or 3 points that encloses all points.
-![image](https://github.com/user-attachments/assets/908d8967-b618-43e3-9035-94b85c3480a3)
+![image](https://github.com/user-attachments/assets/d6ceeb9a-f499-4b15-aba1-ea844c4dcb2f)
+![image](https://github.com/user-attachments/assets/cda83768-2232-4b74-a6e8-9bb70f27dacb)
+
 
 2 Different solutions are given:
 # Brute force with a time complexity of O(n^3)
