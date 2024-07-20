@@ -5,8 +5,5 @@ Given a set of points on a 2D plane find the smallest circle made up of 2 or 3 p
 
 ![image](https://github.com/user-attachments/assets/cda83768-2232-4b74-a6e8-9bb70f27dacb)
 
-
-# 2 Different solutions are given:
-- Brute force with a time complexity of O(n^3)
-- Emo Welzl's optimized algorithm with a time complexity of O(n)
+The problem is solved using both a brute force approach and an optimized algorithm
 
